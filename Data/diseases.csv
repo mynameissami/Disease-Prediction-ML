@@ -1,0 +1,95 @@
+Disease,Description
+back_pain,"Pain felt in the back, usually originating from muscles or spine."
+constipation,"Difficulty in emptying bowels, usually associated with hardened feces."
+abdominal_pain,Pain or discomfort felt in the stomach area.
+diarrhoea,"Frequent, loose, or watery bowel movements."
+mild_fever,Slightly elevated body temperature indicating infection or illness.
+yellow_urine,"Urine that is darker than usual, often due to dehydration or other issues."
+yellowing_of_eyes,"A yellowish tinge to the whites of the eyes, usually indicating jaundice."
+acute_liver_failure,Severe and sudden liver dysfunction.
+fluid_overload,Excess fluid retention in the body causing swelling.
+swelling_of_stomach,Abnormal enlargement or bloating of the stomach area.
+swelled_lymph_nodes,Enlarged lymph nodes often due to infection or disease.
+malaise,A general feeling of discomfort or uneasiness.
+blurred_and_distorted_vision,Vision that is unclear or warped.
+phlegm,Thick mucus produced in the respiratory passages.
+throat_irritation,Discomfort or scratchiness in the throat.
+redness_of_eyes,Inflammation causing redness in the eyes.
+sinus_pressure,Pressure or pain in the sinus region due to congestion.
+runny_nose,Excess nasal drainage often due to colds or allergies.
+congestion,Blocked or restricted nasal passages.
+chest_pain,Pain or discomfort in the chest region.
+weakness_in_limbs,Reduced strength or energy in the arms or legs.
+fast_heart_rate,"An abnormally high heart rate, also known as tachycardia."
+pain_during_bowel_movements,Discomfort or pain when passing stool.
+pain_in_anal_region,Pain in or around the anal area.
+bloody_stool,"Blood visible in the stool, potentially indicating serious conditions."
+irritation_in_anus,Itching or discomfort in the anal area.
+neck_pain,Discomfort or pain in the neck area.
+dizziness,A feeling of lightheadedness or unsteadiness.
+cramps,Involuntary muscle contractions causing pain.
+bruising,Discoloration of the skin caused by bleeding underneath.
+obesity,Excess body fat accumulation that may impair health.
+swollen_legs,Enlargement of the legs due to fluid retention or other causes.
+swollen_blood_vessels,Enlargement or bulging of blood vessels.
+puffy_face_and_eyes,"Swelling around the face and eyes, often due to fluid retention."
+enlarged_thyroid,"Swelling of the thyroid gland, often visible as a neck lump."
+brittle_nails,Fragile nails that easily break or split.
+swollen_extremeties,"Swelling in hands, feet, or other extremities."
+excessive_hunger,A strong desire to eat more than usual.
+extra_marital_contacts,Engaging in sexual activity outside of marriage.
+drying_and_tingling_lips,Dryness and tingling sensations on the lips.
+slurred_speech,Speech that is not clear or properly articulated.
+knee_pain,Pain or discomfort in the knee joint.
+hip_joint_pain,Pain or discomfort in the hip joint.
+muscle_weakness,"Reduced strength in muscles, making movements difficult."
+stiff_neck,Difficulty in moving the neck due to stiffness or pain.
+swelling_joints,Inflammation or enlargement of joints.
+movement_stiffness,Difficulty or resistance in moving joints or muscles.
+spinning_movements,"A sensation of spinning or dizziness, also called vertigo."
+loss_of_balance,Difficulty maintaining physical stability.
+unsteadiness,Lack of balance or stability while moving.
+weakness_of_one_body_side,"Reduced strength on one side of the body, often due to a stroke."
+loss_of_smell,Inability to detect odors.
+bladder_discomfort,Pain or uneasiness in the bladder region.
+foul_smell_of_urine,Unpleasant odor in urine.
+continuous_feel_of_urine,Persistent sensation of needing to urinate.
+passage_of_gases,Release of gas from the digestive system through the rectum.
+internal_itching,Itching sensation inside the body or skin.
+toxic_look_(typhos),"Severe illness appearance, often with fever and other symptoms."
+depression,A mental health disorder characterized by persistent sadness.
+irritability,Easily annoyed or angered mood.
+muscle_pain,Discomfort or pain in muscles.
+altered_sensorium,Changes in mental status or consciousness.
+red_spots_over_body,Reddish spots or patches on the skin.
+belly_pain,Pain in the abdominal region.
+abnormal_menstruation,Irregularities in the menstrual cycle.
+dischromic_patches,Skin discoloration or patches of uneven color.
+watering_from_eyes,Excessive tearing or watery eyes.
+increased_appetite,A noticeable increase in hunger.
+polyuria,Excessive urination.
+family_history,Medical conditions present in close family members.
+mucoid_sputum,Mucus-like material coughed up from the respiratory tract.
+rusty_sputum,"Brown or rust-colored mucus, often a sign of infection."
+lack_of_concentration,Difficulty focusing or maintaining attention.
+visual_disturbances,"Problems with vision, such as blurriness or double vision."
+receiving_blood_transfusion,History of receiving a blood transfusion.
+receiving_unsterile_injections,History of receiving injections in non-sterile conditions.
+coma,A state of deep unconsciousness.
+stomach_bleeding,"Bleeding in the stomach, often causing black or bloody stools."
+distention_of_abdomen,Swelling or bloating of the abdominal area.
+history_of_alcohol_consumption,Regular or excessive intake of alcohol.
+blood_in_sputum,Presence of blood in mucus or phlegm.
+prominent_veins_on_calf,Visible and enlarged veins on the calf.
+palpitations,Irregular or rapid heartbeats.
+painful_walking,Discomfort or pain while walking.
+pus_filled_pimples,"Skin eruptions filled with pus, often caused by infections."
+blackheads,"Small dark spots on the skin, caused by clogged pores."
+scurring,Skin scarring or marks left by healed wounds.
+skin_peeling,Shedding or peeling of the skin layers.
+silver_like_dusting,"Silvery scales on the skin, often associated with psoriasis."
+small_dents_in_nails,Indentations or pits in the nails.
+inflammatory_nails,"Red, swollen, or painful nails."
+blister,Small fluid-filled bubbles on the skin.
+red_sore_around_nose,Painful red areas around the nose.
+yellow_crust_ooze,"Yellowish crust or discharge on the skin, often due to infection."
